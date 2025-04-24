@@ -2,8 +2,11 @@ Rencana Konten
 
 - Pellentesque habitant morbi tristique senectus et netus et malesuada.
   * Edit file
+  * Fitur 2
+  * Coba fitur 2
   * Materi fitur  1
   * Test fitur 1
+
   
 - Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
 - ivamus suscipit tortor eget felis porttitor volutpat.
